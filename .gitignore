@@ -1,1 +1,8 @@
+#build
 bin/
+
+#ssl
+*.crt
+*.key
+*.csr
+*.pem
